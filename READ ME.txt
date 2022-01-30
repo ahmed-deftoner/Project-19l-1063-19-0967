@@ -1,0 +1,12 @@
+######## SPACE INVADERS ##########
+ 
+INSTRUCTIONS:-
+1- press arrow keys for movement.
+2- press spacebar to shoot aliens.
+3- the console window settings are according to my PC's screen, if the shooter isn't vsible, adjust the width and height variables in the code manually for your computer screen.
+4- you have 3 lives, you lose 1 life if an alien passes the shooter, you lose all lives if you get hit by the alien's bullets.
+5- the score is displayed at the end.
+          
+
+
+                     ENJOY !!!! :)
